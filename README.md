@@ -10,6 +10,6 @@ Download the latest version of the script from the repository.
 Upload the folder to your server's resources directory.
 Add the following line to your server.cfg:
 ```
-ensure christmas-mode
+ensure christmas
 ```
 Enjoy!
